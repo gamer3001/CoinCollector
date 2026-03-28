@@ -1,0 +1,7 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1774303325
+coin.gd::GDScript::-1::1774303211::0::1::::<>Area2D<>::
+game_manager.gd::GDScript::-1::1774303216::0::1::::<>Node2D<>::
+icon.svg::CompressedTexture2D::4866235149950372181::1774303218::1774303326::1::::<><>::
+main.tscn::PackedScene::-1::1774303273::0::1::::<><>::res://player.gd<>res://coin.gd<>res://game_manager.gd
+player.gd::GDScript::-1::1774303208::0::1::::<>CharacterBody2D<>::
